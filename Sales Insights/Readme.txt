@@ -10,7 +10,7 @@
 
 ## Data import and SQL
 
-First I have imported `Sales_mod_db.sql` in MySQL Server using MySQL Workbench, did some Data Analysis and data exploration using SQL, below are the queries that I have used and I have also exported all the tables of the Sales database from MySQL into the CSV files with the folder name `Sales database CSV`, if you want to check it out. 
+First, I have imported `Sales_mod_db.sql` in MySQL Server using MySQL Workbench, did some Data Analysis and data exploration using SQL, Below are the queries that I have used and I have also exported all the tables of the Sales database from MySQL into the CSV files with the folder name `Sales database CSV`, if you want to check it out. 
 
 **Comment: showing all the records from each table**. 
 
@@ -30,7 +30,7 @@ First I have imported `Sales_mod_db.sql` in MySQL Server using MySQL Workbench, 
 `SELECT count(*) FROM sales_mod.transactions;`    
 
 
-**Comment: show all the transcation records from Chennai region(Mark001), then giving the count of total transcation records from Chennai region and last giving the count of all transcations records from the Delhi NCR region(Mark004).**  
+**Comment: show all the transaction records from Chennai region(Mark001), then giving the count of total transcation records from Chennai region and last giving the count of all transcations records from the Delhi NCR region(Mark004).**  
 
 `SELECT * FROM sales_mod.transactions WHERE market_code="Mark001";`  
 `SELECT count(*) FROM sales_mod.transactions WHERE market_code="Mark001"`   
@@ -106,6 +106,7 @@ Created data visualization based on: Revenue, Sales Qty, Revenue by Markets, Sal
 
 **Tableau Dashboard** [Tableau dashboard link](https://public.tableau.com/app/profile/inderjeet.singh4420/viz/SalesInsightsDashboard_16796303589230/Dashboard1)
 ![](https://github.com/Inder-rana/Project_portfolio/blob/main/Sales_insights/images/Tableau_snapshot_large.png)
+
 
 
 
