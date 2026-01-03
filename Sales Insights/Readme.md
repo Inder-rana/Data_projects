@@ -1,8 +1,9 @@
-# Sales Insights for AtliQ hardware: Project Overview
-### [Power BI | Tableau | SQL]
-*  Designed a Power BI and Tableau dashboard to understand AtliQ hardware goods sales trend.
-*  The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
-*  This dashboard could help in increasing the revenue at least by 7% in the next quarter. 
+# Sales Performance Dashboard: Project Overview
+### [SQL | Power BI | Tableau | Excel | 2023]  
+* Analysed sales transaction data (~150k records) to identify **trends and performance drivers**.
+* Performed data extraction and cleaning using SQL and Excel.
+* Built interactive dashboards in Power BI and Tableau to track KPIs.
+* Enabled stakeholders to explore trends and support **sales planning decisions**.
 
 ## Resources and References used
 **Project Tutorial:** https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9  
@@ -106,4 +107,5 @@ Created data visualization based on: Revenue, Sales Qty, Revenue by Markets, Sal
 
 **Tableau Dashboard** [Tableau dashboard link](https://public.tableau.com/app/profile/inderjeet.singh4420/viz/SalesInsightsDashboard_16796303589230/Dashboard1)
 ![](https://github.com/Inder-rana/Data_projects/blob/main/Sales%20Insights/images/Tableau_snapshot_large.png)
+
 
