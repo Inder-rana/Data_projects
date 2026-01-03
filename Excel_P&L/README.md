@@ -1,8 +1,9 @@
-# P&L from scratch: Project Overview
-### [Excel | Charts]
-*	Created a Profit & Loss statement in Excel to help business stakeholders understand their organization’s financial health, based on the data insights they can make informed financial decisions.
-*	This project could help organization decrease their unnecessary expenses by 10%
-*	I have utilized the P&L Extractions from FY2016, 2017, and 2018, Extractions have around 335 data records, did some data cleaning and got rid of some null values, and created a mapping column for easier analysis by categorizing common P&L items.
+# Profit & Loss Analysis: Project Overview
+### [Excel | Financial Analysis | 2023]
+* Built a structured **P&L statement** from raw financial extracts spanning multiple financial years.
+* Cleaned and categorised financial data to enable clearer expense and revenue analysis.
+* Created mappings to group common P&L items for easier interpretation by stakeholders.
+* Demonstrated how financial data can support **cost control and budgeting discussions**.
 
 ### Resources and References used
 **Intro to Excel:** https://365datascience.com/courses/introduction-to-microsoft-excel/
