@@ -1,8 +1,9 @@
-# Gender Gap insights: Project overview
-### [Excel | SQL | Tableau]
-* Created a Tableau Dashboard to show the breakdown of male and female employees in various departments, to promote equal opportunities for everyone.
-* This project could help improve gender gap policies in the organization and increase women’s employment in the local area by 7%.
-* This project has various tables, totaling around 1.3 million data records, and did some SQL querying in the employee database to identify the relevant records to the analysis. 
+# Workforce Gender Gap Analysis: Project overview
+### [ SQL | Excel | Tableau | 2023]
+* Analysed workforce data (~1.3M records) to assess **gender representation across departments**.
+* Used SQL to extract and filter relevant employee data for analysis.
+* Built a Tableau dashboard to visualise disparities and trends.
+* Demonstrated how data can support **HR and diversity reporting initiatives**.
 
 ### Resources and references used
 
