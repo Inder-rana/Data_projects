@@ -1,9 +1,9 @@
-# Real Estate Insights (Statistics): Project Overview
-### [Excel | Statistics]
-*	Performed statistical analysis on the real estate data that can help run a successful marketing campaign.
-*	Statistical insights from this project could save 15% of the company resources, save 20% of the time and effort used by the marketing team, and increase the marketing results by 30%.
-*	This project has 272 data records with 24 variable columns, I have created frequency distribution tables, Pareto diagrams, histograms, pie charts, and scatter plots.
-
+# Real Estate Statistical Analysis: Project Overview
+### [Excel | Statistics | 2023]
+* Performed exploratory and statistical analysis on real estate datasets to identify **pricing and demand patterns**.
+* Applied frequency distributions, Pareto analysis, and correlation techniques.
+* Created visual summaries to support **marketing and targeting strategy discussions**.
+* Demonstrated practical use of statistics for business decision-making.
 
 ### Resources and References used
 **Statistics:** https://365datascience.com/courses/statistics/
